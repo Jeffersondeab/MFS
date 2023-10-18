@@ -1,0 +1,22 @@
+
+.search{
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 10rem;
+    display: flex;
+    padding: .2rem 1rem;    
+}
+
+
+.search-int{
+    border: none;
+    border-radius: 10rem;
+    height: 2vw;
+    outline: none;
+    width: 25vw;
+}
+
+.search-lupa{
+    cursor: pointer;
+}
+
