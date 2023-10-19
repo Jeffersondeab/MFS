@@ -1,0 +1,23 @@
+
+
+.recent-content{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.recent-content__list{
+   border: 1px solid black;
+    
+}
+
+
+.recent-content__item{
+    text-align: center;
+    list-style: none;
+    width: 25vw;
+}
+
+.recent-content__image{
+    width: 25vw;
+}

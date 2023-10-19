@@ -8,6 +8,10 @@
 }
 
 
+.search-int[type="search"]::-webkit-search-cancel-button{
+    -webkit-appearance: none;
+}
+
 .search-int{
     border: none;
     border-radius: 10rem;
@@ -18,5 +22,6 @@
 
 .search-lupa{
     cursor: pointer;
+    padding: .5rem .5rem;
 }
 

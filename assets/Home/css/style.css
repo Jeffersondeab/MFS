@@ -6,6 +6,10 @@
 @import url('/assets/Home/css/header/nav.css');
 
 
+/* MAIN */
+
+@import url('main/recent-content.css');
+@import url('main/main-base.css');
 
 
 /* FOOT */
