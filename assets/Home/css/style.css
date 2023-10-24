@@ -14,5 +14,6 @@
 
 /* FOOT */
 
+@import url('foot/foot-base.css');
 @import url('foot/sign.css');
 

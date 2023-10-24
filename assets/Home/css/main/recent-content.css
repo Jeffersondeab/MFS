@@ -7,17 +7,26 @@
 }
 
 .recent-content__list{
-   border: 1px solid black;
-    
+    padding: 2rem;
 }
 
 
 .recent-content__item{
+    border: 1px solid black;
+    border-radius: 1rem;
+    padding: 2rem;
     text-align: center;
     list-style: none;
     width: 25vw;
+    
+}
+
+.recent-content__item span{
+    color: white;
 }
 
 .recent-content__image{
     width: 25vw;
+    height: 12rem;
+    border-radius: 1rem;
 }
